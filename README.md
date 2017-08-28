@@ -1,0 +1,2 @@
+# NorskOrd
+Norwegian word list
